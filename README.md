@@ -1,0 +1,2 @@
+# SierpinskiTriangle
+Created with CodeSandbox
